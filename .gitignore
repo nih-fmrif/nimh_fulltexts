@@ -89,3 +89,6 @@ data/interim/full_texts/*
 
 # Mypy cache
 .mypy_cache/
+
+# Rhistory
+.Rhistory
