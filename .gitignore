@@ -79,6 +79,9 @@ target/
 # exclude data from source control by default
 #/data/
 data/interim/full_texts/*
+data/external/RePORTER/Link_tables/*
+data/external/RePORTER/Projects/*
+data/external/RePORTER/Publications/*
 
 # Mac OS-specific storage files
 .DS_Store
