@@ -82,6 +82,7 @@ data/interim/full_texts/*
 data/external/RePORTER/Link_tables/*
 data/external/RePORTER/Projects/*
 data/external/RePORTER/Publications/*
+data/external/*
 
 # Mac OS-specific storage files
 .DS_Store
